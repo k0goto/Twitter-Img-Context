@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter Img Context",
+  "version": "1.0",
+  "description": "Twitterの画像表示に本文を追加する",
+
+  "content_scripts": [{
+    "matches": ["https://twitter.com/*"],
+    "js": ["script.js"],
+    "run_at": "document_end"
+  }]
+}
