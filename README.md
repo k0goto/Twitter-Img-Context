@@ -7,5 +7,4 @@ src.crxを[chrome://extensions](/chrome://extensions/)にドラッグアンド�
 ## Note
 margin: autoだと左に寄ってしまうので適当に20%にしてる.
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">出せた<a href="https://t.co/RLRcd73es3">https://t.co/RLRcd73es3</a> <a href="https://t.co/VFHAweXE7r">pic.twitter.com/VFHAweXE7r</a></p>&mdash; 理解 (@10llip0p) <a href="https://twitter.com/10llip0p/status/878970187055194112">2017年6月25日</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+![サンプル](https://pbs.twimg.com/media/DDK6iBNUMAA2b8U.jp)
